@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintTool", "PaintTool\PaintTool.csproj", "{4A38F5DF-A425-4F76-AC81-EA6A0E7B1ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A38F5DF-A425-4F76-AC81-EA6A0E7B1ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A38F5DF-A425-4F76-AC81-EA6A0E7B1ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A38F5DF-A425-4F76-AC81-EA6A0E7B1ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A38F5DF-A425-4F76-AC81-EA6A0E7B1ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C29616E4-F9CA-4308-AEA4-989A7B8D5D9D}
+	EndGlobalSection
+EndGlobal
